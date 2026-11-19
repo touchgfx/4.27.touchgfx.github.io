@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktouchgfx_documentation=self.webpackChunktouchgfx_documentation||[]).push([[37108],{79550:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"academy"}')}}]);
